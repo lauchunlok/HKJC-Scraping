@@ -9,7 +9,7 @@ Example page:
 4. https://racing.hkjc.com/racing/information/English/racing/RaceCard.aspx
 
 ### Race Result
-In this page, the script will crawl the result table and prize money. You can change the number of years of crawling by specifying YEAR_START and YEAR_END on the top of the script.
+In this page, the script will crawl the result table and prize money. You can change the number of years of crawling by specifying YEAR_START and YEAR_END on the top of the script. It takes around 10 mintues to complete one month. So on average, it takes an hour and a half to complete one year given that less/no horse racing in July to Augest.
 
 
 ### Horse Form Records
