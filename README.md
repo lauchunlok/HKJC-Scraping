@@ -1,6 +1,6 @@
 # HKJC-Scraping-
 
-The project is aimed to help gamblers building up their own horse racing database for betting strategies. It consists of 4 scripts/notebooks, covering 4 different pages: 1. Race Result, 2. Horse Form Records, 3. Sectional Time & Position and 4. Race Card. With these pages information, you are more than enough to do you own feature engineering. Happy yet cautious betting and win more!
+The project is aimed to help gamblers building up their own horse racing database for betting strategies. It consists of 4 scripts/notebooks, covering 4 different pages: 1. Race Result, 2. Horse Form Records, 3. Sectional Time & Position and 4. Race Card. With these pages information, you have more than enough data to do your own feature engineering. Happy yet cautious betting and win more!
 
 Example page:
 1. https://racing.hkjc.com/racing/information/english/Racing/LocalResults.aspx?RaceDate=2021/03/31
