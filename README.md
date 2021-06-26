@@ -13,7 +13,7 @@ In this page, the script will crawl the result table and prize money. You can ch
 
 
 ### Horse Form Records
-
+In this page, the script will crawl on the horse appeared in the interested time horizon which we specified in Race Result. It aims to provide a full historical record of horses so that we can include Lag features, e.g. average position in last X races.
 
 ### Sectional Time & Position
 
