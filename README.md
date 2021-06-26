@@ -11,12 +11,11 @@ Example page:
 ### Race Result
 In this page, the script will crawl the result table and prize money. You can change the number of years of crawling by specifying YEAR_START and YEAR_END on the top of the script. It takes around 10 mintues to complete one month. So on average, it takes an hour and a half to complete one year given that less/no horse racing in July to Augest.
 
-
 ### Horse Form Records
-In this page, the script will crawl on the horse appeared in the interested time horizon which we specified in Race Result. It aims to provide a full historical record of horses so that we can include Lag features, e.g. average position in last X races.
+In this page, the script will crawl on the horse appeared in the interested time horizon which we specified in Race Result. It aims to provide a full historical record of horses so that we can include Lag features, e.g. average position in last X races. It is a relatively fast process and takes one mintue for one horse on average.
 
 ### Sectional Time & Position
-
+The script mainly captures the Margin Behind Leader and Sectional Time which is not captured by Race Result. It can provide more information on horses' running style and performance at different Metres.
 
 ### Race Card
 
