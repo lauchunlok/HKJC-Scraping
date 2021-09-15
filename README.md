@@ -1,7 +1,7 @@
 (Update September 2021: Add multithread scraping for speed up the web crawling.)
 ___
 # HKJC-Scraping
----
+___
 
 The project is aimed to help gamblers building up their own horse racing database for betting strategies. It consists of 4 scripts/notebooks, covering 4 different pages: 1. Race Result, 2. Horse Form Records, 3. Sectional Time & Position and 4. Race Card. With these pages information, you have more than enough data to do your own feature engineering. Happy yet cautious betting and win more!
 
@@ -22,9 +22,3 @@ The script mainly captures the Margin Behind Leader and Sectional Time which is 
 
 ### Race Card
 Race card complement the dataset that it offers "Int'l Rtg.", 'Rtg.', 'Rtg.+/-', 'Horse Wt. (Declaration)', 'Wt.+/- (vs Declaration)', 'Best Time', 'Age' and 'Priority', etc. These features are exclusively on Race Card. **Unfortunately, past Race Card are not accessible anymore. (If you can find ways to access past Race Card record, I would appreciate it very much if you could tell me.)**
-
-
-### Closing Words
-
-
-### TODO
