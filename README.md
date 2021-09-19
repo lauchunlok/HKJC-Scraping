@@ -1,4 +1,4 @@
-(Update September 2021: Add multithread scraping for speed up the web crawling.)
+(Update September 2021: Add multithread for speed up the web crawling.)
 ___
 # HKJC-Scraping
 ___
